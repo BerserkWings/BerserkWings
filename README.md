@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🌱 I’m currently learning Cybersecurity just to be a pentester!
+- 🌱 I’m currently learning Cybersecurity because I want to be a pentester!
 
 ### - Learning :
 - ✨ Cybersecurity Tools
