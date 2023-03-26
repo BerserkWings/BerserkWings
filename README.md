@@ -2,7 +2,7 @@
 🌱 I’m currently learning Cybersecurity because I want to be a pentester!
 
 ## Learning 📚
-<img hight="500" width="600" alt="JPG" align="right" src="https://github.com/BerserkWings/BerserkWings/blob/main/assets/Hackerxd.jpg">
+<img hight="450" width="550" alt="JPG" align="right" src="https://github.com/BerserkWings/BerserkWings/blob/main/assets/Hackerxd.jpg">
 
 - ⚡ Pentesting Tools (Kali Linux)
 - ⚡ Pentesting Metodologies
