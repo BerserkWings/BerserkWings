@@ -1,6 +1,8 @@
 ### Hi everyone! 👋
 🌱 I’m currently learning Cybersecurity because I want to be a pentester!
 
+<img hight="200" width="300" alt="JPG" align="right" src="https://github.com/BerserkWings/BerserkWings/blob/main/assets/Hackerxd.jpg">
+
 ## Learning 📚
 - ⚡ Pentesting Tools (Kali Linux)
 - ⚡ Pentesting Metodologies
@@ -34,15 +36,15 @@
   </p>
 
 ## About Me 💬
-<img hight="400" width="500" alt="JPG" align="right" src="https://github.com/BerserkWings/BerserkWings/blob/master/assets/Waos.jpg">
+<img hight="200" width="300" alt="JPG" align="right" src="https://github.com/BerserkWings/BerserkWings/blob/main/assets/Waos.jpg">
 
 ### - Hobbies : 
 - ✨ Gaming Addict
 - ✨ Play CTF on ![HackTheBox](https://img.shields.io/badge/HackTheBox-000000?style=plastic&logo=hackthebox&labelColor=000000)
 - ✨ Collect and Build Military Models and Anime Figures
-- ✨ Create New Posts on my Blog
+- ✨ Create New Posts on my Blog -> https://berserkwings.github.io/
 
-### - Contact Me :
+### - Contact Me 📫
 
 
 <!-- Temas que no use pero que pueden servir xd
