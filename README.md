@@ -45,7 +45,7 @@
 - ✨ Create New Posts on my Blog -> https://berserkwings.github.io/
 
 ### - Contact Me 📫
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vyanei-salazar-cruz-912464224/)](https://www.linkedin.com/in/vyanei-salazar-cruz/)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vyanei-salazar-cruz-912464224/)](https://www.linkedin.com/in/vyanei-salazar-cruz-912464224/)
 
 
 <!-- Temas que no use pero que pueden servir xd
