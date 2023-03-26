@@ -1,9 +1,9 @@
 ### Hi everyone! 👋
 🌱 I’m currently learning Cybersecurity because I want to be a pentester!
 
-<img hight="200" width="300" alt="JPG" align="right" src="https://github.com/BerserkWings/BerserkWings/blob/main/assets/Hackerxd.jpg">
-
 ## Learning 📚
+<img hight="400" width="500" alt="JPG" align="right" src="https://github.com/BerserkWings/BerserkWings/blob/main/assets/Hackerxd.jpg">
+
 - ⚡ Pentesting Tools (Kali Linux)
 - ⚡ Pentesting Metodologies
 - ⚡ Python
@@ -45,6 +45,7 @@
 - ✨ Create New Posts on my Blog -> https://berserkwings.github.io/
 
 ### - Contact Me 📫
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vyanei-salazar-cruz/)](https://www.linkedin.com/in/vyanei-salazar-cruz/)
 
 
 <!-- Temas que no use pero que pueden servir xd
